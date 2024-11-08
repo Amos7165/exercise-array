@@ -13,7 +13,7 @@ int main() {
     struct Student *students;
     FILE *file;
 
-    // Ask for the number of students
+    // number of students
     printf("Enter the number of students: ");
     scanf("%d", &n);
 
